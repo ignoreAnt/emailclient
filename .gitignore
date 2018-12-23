@@ -24,3 +24,5 @@ hs_err_pid*
 /.idea/
 /mail-client.iml
 !/target/
+/build/
+/out/
